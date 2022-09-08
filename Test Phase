@@ -1,0 +1,15 @@
+\\install
+sudo apt install python-pip
+$ cd /home/pi/
+$ \curl -sSL https://get.initialstate.com/python -o - | sudo bash
+
+\\Output
+Please select which Initial State app you're using:
+1. app.initialstate.com
+2. [NEW!] iot.app.initialstate.com
+Enter choice 1 or 2:
+Enter iot.app.initialstate.com user name:
+Enter iot.app.initialstate.com password:
+
+\\initial Process
+$ nano is_example.py
