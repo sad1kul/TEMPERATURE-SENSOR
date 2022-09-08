@@ -1,0 +1,4 @@
+cd /sys/bus/w1/devices
+ls
+
+cd 28-000007602ffa
